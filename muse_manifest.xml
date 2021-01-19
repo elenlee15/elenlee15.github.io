@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elenlee.com" resolutions="1x" timestamp="1611073813209">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elenlee.com" resolutions="1x" timestamp="1611075046207">
   <folder name="images">
     <file name="20200205_074116.jpg" crc="4294471494" seo="true" ref="index:關於我:攝影:動畫">
       <caption webpage="index" alt=""/>
@@ -149,7 +149,7 @@
     <file name="index.html" crc="4019432768" seo="true" mt="1610715226479" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="277311116"/>
+    <file name="site_global.css" crc="378483588"/>
     <file name="index.css" crc="4124293118" ref="index"/>
     <file name="___.css" crc="3770310947" ref="關於我"/>
     <file name="____.css" crc="4255651199" ref="創作基礎"/>
