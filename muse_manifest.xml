@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elenlee.com" resolutions="1x" timestamp="1611075941376">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elenlee.com" resolutions="1x" timestamp="1611076086835">
   <folder name="css">
     <file name="site_global.css" crc="277311116"/>
     <file name="____.css" crc="4255651199" ref="創作基礎"/>
     <file name="__1.css" crc="4056414920" ref="動畫"/>
-    <file name="___.css" crc="3770310947" ref="關於我"/>
+    <file name="___.css" crc="3910343382" ref="關於我"/>
     <file name="__.css" crc="4018249828" ref="攝影"/>
     <file name="index.css" crc="4124293118" ref="index"/>
   </folder>
@@ -30,7 +30,6 @@
     <file name="u351-7.png" crc="3796712721" ref="關於我"/>
     <file name="u354-4.png" crc="382122970" ref="關於我"/>
     <file name="u366-7.png" crc="397249028" ref="關於我"/>
-    <file name="u1637-4.png" crc="82110641" ref="關於我"/>
     <file name="創作基礎作品集_頁面_01.jpg" crc="4161281385" seo="true" ref="創作基礎">
       <caption webpage="創作基礎" alt=""/>
     </file>
@@ -158,7 +157,7 @@
     <file name="u1661-8.png" crc="4163497680" ref="動畫"/>
   </folder>
   <file name="index.html" crc="4088736153" seo="true" mt="1611075929040" redirect="true"/>
-  <file name="關於我.html" crc="245774391" seo="true" mt="1611073779263" redirect="true"/>
+  <file name="關於我.html" crc="412440354" seo="true" mt="1611076078119" redirect="true"/>
   <file name="創作基礎.html" crc="210233411" seo="true" mt="1611073608083" redirect="true"/>
   <file name="攝影.html" crc="4273149128" seo="true" mt="1611073790093" redirect="true"/>
   <file name="動畫.html" crc="3943361430" seo="true" mt="1611073797229" redirect="true"/>
